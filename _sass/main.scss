@@ -6,8 +6,15 @@
 
 .text-center { text-align: center; }
 
-.section-background {
-  background-image: url("diagonal-stripes.jpg");
+.konserwacja-background {
+  background-color: #E74727;
+  background-position: center;
+  background-size: cover;
+  color: #fff;
+}
+
+.projektowanie-background {
+  background-color: #000;
   background-position: center;
   background-size: cover;
   color: #fff;
